@@ -101,5 +101,5 @@ var urheilija = new Urheilija(
   "https://c.files.bbci.co.uk/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
   "72",
   "Jaakiekko",
-  "Ei mitaan"
+  "MM-Mitali"
 );
