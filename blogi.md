@@ -11,4 +11,4 @@ Puhelinluettelo tehtävää en kerinnyt tehdä. Henkilö ja urheilija tehtävä 
 
 ## Viikko 3 (15-22.9.2021)
 
-Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen
+Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen. 
