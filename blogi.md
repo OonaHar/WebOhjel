@@ -11,4 +11,8 @@ Puhelinluettelo tehtävää en kerinnyt tehdä. Henkilö ja urheilija tehtävä 
 
 ## Viikko 3 (15-22.9.2021)
 
-Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen. 
+Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen. Tultiin tulokseen, että blogin voi toteuttaa tässä yhteydessä md tiedostolla. Tämä on näppärää, koska kirjoitukset tulee helposti committien mukana GitHubiin.
+
+## Viikko 4 (22.9 - )
+
+Tehtävä 4 a ja b:n vuoro. Tehtävät osoittautuivat haasteellisiksi koottaviksi. Jouduin tukeutumaan kavereiden apuun ja neuvontaan.
