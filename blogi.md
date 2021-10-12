@@ -16,3 +16,4 @@ Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen. Tultiin tuloks
 ## Viikko 4 (22.9 - )
 
 Tehtävä 4 a ja b:n vuoro. Tehtävät osoittautuivat haasteellisiksi koottaviksi. Jouduin tukeutumaan kavereiden apuun ja neuvontaan.
+4a
