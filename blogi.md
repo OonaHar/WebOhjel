@@ -21,4 +21,6 @@ Käytiin REST API asioita läpi. Moodlessa olevat Youtube videot osoittautuivat 
 ## Viikko 7,8 (16-23.10.2021)
 
 Postman ladattu. Sovellus minulle vielä uusi ja tuntematon. Pienen tutkiskelun jälkeen totesin, että ohjelma onkin näppärä API työkalu.
-Tehtävä 5 palautti mielen SQL kurssille, josta aikanaan tykkäsin. Mielestäni HeidiSQl on simppeli ja näppärä ohjelma tietokantojen luomiseen. Yhdistäminen VS onnistui melkeinpä ongelmitta. Joitakin ongelmia ilmeni käyttäjän oikeuksien antamisessa ja niiden käyttämisessä. Yrittäessäni rajat oikeuksia, ei ohjelma päästänyt eteenpäin ilman virheilmoituksia. Lopulta sallin kaikki oikeudet ja rupesin siitä karsimaan. Ei mitään tietoa, miksi tätä virheilmoitusta antoi.
+Tehtävä 5 palautti mielen SQL kurssille, josta aikanaan tykkäsin. Mielestäni HeidiSQl on simppeli ja näppärä ohjelma tietokantojen luomiseen. Yhdistäminen VS:een onnistui melkeinpä ongelmitta. Joitakin ongelmia ilmeni käyttäjän oikeuksien antamisessa ja niiden käyttämisessä. Yrittäessäni rajat oikeuksia, ei ohjelma päästänyt eteenpäin ilman virheilmoituksia. Lopulta sallin kaikki oikeudet ja rupesin siitä karsimaan. Ei mitään tietoa, miksi tätä virheilmoitusta antoi.
+
+## Viikko 9, 10 (24.10.2021 - 17.11.2021)

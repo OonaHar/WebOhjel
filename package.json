@@ -1,5 +1,5 @@
 {
-  "name": "WebOhjel",
+  "name": "teht6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/OonaHar/WebOhjel.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oona Harkonen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OonaHar/WebOhjel/issues"
