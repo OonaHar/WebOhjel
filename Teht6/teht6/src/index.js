@@ -1,11 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./kk.js";
+import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import response from "express";
-
-export default App;
 
 ReactDOM.render(
   <React.StrictMode>
