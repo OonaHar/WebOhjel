@@ -5,9 +5,9 @@ class App extends Component {
     return (
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">VITTU SAATANA</h5>
+          <h5 class="card-title">URHEILIJAT</h5>
           <h6 class="card-subtitle mb-2 text-muted">EITOIMI.COM</h6>
-          <p class="card-text">Stay Hungry, Stay Foolish</p>
+          <Button variant="contained">Lisää urheilija</Button>;
         </div>
       </div>
     );
