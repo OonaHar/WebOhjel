@@ -1,35 +1,49 @@
+import React from "react";
+import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import Search from "./search";
+import SecondComponent from "./SecondComponent";
+import FirstComponent from "./FirstComponent";
 
 function App() {
   return (
-    <html>
-      <div>
-        <h1>Urheilijat</h1>
-        <h3>Klikkaa urheilijaa nähdäksesi tiedot</h3>
-        <button onClick="New Tab()">Kimi Räikkönen</button>
+    <Router>
+      <button>Krista Pärmäkoski</button>
+      <button>Mikael Granlund</button>
+      <button> Jaska Jokunen </button>
+      <h3>Muutoksia urheilijoihin</h3>
+      <button>Poista urheilija</button>
+      <button>Lisää urheilija</button>
+      <h1> </h1>
+      <Search />
 
-        <script>
-          function NewTab(){" "}
-          {window.open("https://www.geeksforgeeks.org", "_blank")}
-        </script>
-
-        <button>Krista Pärmäkoski</button>
-        <button>Mikael Granlund</button>
-        <button> Jaska Jokunen </button>
-
-        <h3>Muutoksia urheilijoihin</h3>
-        <button>Poista urheilija</button>
-        <button>Lisää urheilija</button>
-
-        <h1> </h1>
-        <Search />
+      {urheilijat.map((urheilija) => (
+        <li key={urheilija.id}>{urheilija.name}</li>
+      ))}
+      {/*switch used to render only the first
+     route that matches the location rather 
+     than rendering all matching routes. */}
+      <Routes>
+        <Route exact path="/geeks/second" component={SecondComponent}></Route>
+        <Route exact path="/geeks/first" component={FirstComponent}></Route>
         <ul>
-          {urheilijat.map((urheilija) => (
-            <li key={urheilija.id}>{urheilija.name}</li>
-          ))}
+          <br />
+          <li>
+            {/* Link component uses the to prop 
+          to describe the location where the 
+          links should navigate to. */}
+            <Link to="/geeks/first" target="_blank">
+              Open First Component
+            </Link>
+          </li>
+          <br />
+          <li>
+            <Link to="/geeks/second" target="_blank">
+              Open Second Component
+            </Link>
+          </li>
         </ul>
-      </div>
-    </html>
+      </Routes>
+    </Router>
   );
 }
 
