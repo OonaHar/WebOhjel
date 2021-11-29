@@ -14,7 +14,7 @@ function FirstComponent() {
           color: "rgb(11, 167, 11)",
         }}
       >
-        ????Geeks For Geeks First Component in New Tab????
+        Kimi Räikkönen
       </h1>
     </div>
   );

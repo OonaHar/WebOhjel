@@ -6,7 +6,10 @@ import FirstComponent from "./FirstComponent";
 
 function App() {
   return (
-    <Router>
+    <div>
+      <h1>Urheilijat</h1>
+      <h3>Klikkaa urheilijaa nähdäksesi tiedot</h3>
+      <button>Kimi Räikkönen</button>
       <button>Krista Pärmäkoski</button>
       <button>Mikael Granlund</button>
       <button> Jaska Jokunen </button>
@@ -19,31 +22,7 @@ function App() {
       {urheilijat.map((urheilija) => (
         <li key={urheilija.id}>{urheilija.name}</li>
       ))}
-      {/*switch used to render only the first
-     route that matches the location rather 
-     than rendering all matching routes. */}
-      <Routes>
-        <Route exact path="/geeks/second" component={SecondComponent}></Route>
-        <Route exact path="/geeks/first" component={FirstComponent}></Route>
-        <ul>
-          <br />
-          <li>
-            {/* Link component uses the to prop 
-          to describe the location where the 
-          links should navigate to. */}
-            <Link to="/geeks/first" target="_blank">
-              Open First Component
-            </Link>
-          </li>
-          <br />
-          <li>
-            <Link to="/geeks/second" target="_blank">
-              Open Second Component
-            </Link>
-          </li>
-        </ul>
-      </Routes>
-    </Router>
+    </div>
   );
 }
 

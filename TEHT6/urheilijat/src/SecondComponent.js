@@ -14,7 +14,7 @@ function SecondComponent() {
           color: "#7F00FF",
         }}
       >
-        ????Geeks For Geeks Second Component in New Tab
+        Krista Pärmäkoski
       </h1>
     </div>
   );
