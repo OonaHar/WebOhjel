@@ -13,6 +13,15 @@ Parantaisin käyttöliittymää vielä entisestään, jos rupeaisin tehtävää 
 Palindromi tehtävä herätteli mukavasti kurssiin! Tehtävänä oli tehdä sovellus, joka kysyy syötettävän sanan ja tarkistaa onko tämä palindromi. Kaikessa yksinkertaisuudessaan loin tehtävään for loopin, joka jakaa sanan kahteen osaan ja tarkistaa, onko molemmissa osissa samat kirjaimet. Mikäli on, boolean palauttaa arvon true.
 Tehtävä oli suhteellisen tuttu muilta ohjelmoinnin kursseilta
 
+Epähuomiossani en lukenut puhelinluettelon tehtävänannon viimeistä lausetta "Komentokehoitepohjainen". Käytin puoli päivää koodaten web-pohjaista sovellusta käyttöliittymine kaikkineen. Tämän tajuttuani poistin kaiken turhan, loin yhden js tiedoston johon koostin koodin.
+
+Tehtävänä oli lisätä taulukkoon objekteja (eli henkilöitä joilla nimi ja puhelinnumero).
+Käyttäjältä kysytään henkilön nimi ja puhelinnumero. Tehtävän oli myös tehdä haku nimen perusteella, joka palauttaa henkilön tiedot.
+
+Tein siis simppelit console.logit joiden avulla pystytään tekemään hakuja.
+
+Tehtävästä ei sen enempää sanottavaa.
+
 Henkilö ja urheilija tehtävä oli tallessa viime vuodelta, jolloin yritin käydä tätä samaa kurssia, en kuitenkaan sitä silloin päätökseen saanut ajanpuutteen vuoksi.
 
 ## Viikko 3, 4, 5, 6 (15-13.10.2021)
