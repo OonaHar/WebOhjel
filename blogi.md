@@ -24,19 +24,34 @@ Tehtävästä ei sen enempää sanottavaa.
 
 Henkilö ja urheilija tehtävä oli tallessa viime vuodelta, jolloin yritin käydä tätä samaa kurssia, en kuitenkaan sitä silloin päätökseen saanut ajanpuutteen vuoksi.
 
+Henkilö ja urheilija tehtävä oli tallessa viime vuodelta, jolloin yritin käydä tätä samaa kurssia, en kuitenkaan sitä silloin päätökseen saanut ajanpuutteen vuoksi.
+
+Tehtävänä oli luoda luokka Henkilö, jolla on tiettyjä attribuutteja. Tämän jälkeen piti luoda Urheilija, joka perii luokan Henkilö attribuutit ja saa myös itselleen muutamia attribuutteja. Määritin Henkilölle ja urheilijalle attribuutit gettereillä ja settereillä. Loin esimerkit molemmista instansseista ja periytymisen super metodilla
+
+Tehtävä muistutteli mieleen ohj3 olio-ohjelmoinnin kikkoja ja opin taas uusia asioista luokkien periytyvyydestä. Tehtävästä jäi puuttumaan toimivan kuvan linkkaaminen. Sen tekisin ensikerralla uudestaan
+
 ## Viikko 3, 4, 5, 6 (15-13.10.2021)
 
 Yhdistin Gitin pitkän tuskastelun jälkeen Visual Studio Codeen. Tultiin tulokseen, että blogin voi toteuttaa tässä yhteydessä md tiedostolla. Tämä on näppärää, koska kirjoitukset tulee helposti committien mukana GitHubiin.
 
-Tehtävä 4 a ja b:n vuoro. Tehtävät osoittautuivat haasteellisiksi koottaviksi. Jouduin tukeutumaan kavereiden apuun ja neuvontaan.
-4btä en tehnyt ajanpuutteen vuoksi. Tietorakenteet ja algotimit- kurssi vie tuhottomasti aikaa.
+Tehtävä 4 an vuoro. Tehtävä osoittautu haasteelliseksi. Jouduin tukeutumaan kavereiden apuun ja neuvontaan.
+4btä en tehnyt ajanpuutteen vuoksi. Tietorakenteet ja algotimit- kurssi vei tuhottomasti aikaa.
+
+Toteutin tehtävään hakua varten GET metodin ja sanojen lisäystä varten POST metodin. Ohjelmaan oli linkitetty myös tekstitiedosto, johon sanat tallennettiin
+
+Opin miten GET -ja POST metodeja käytetään ja miten niitä sovelletaan tällaisessa sovelluksessa päällisinpuolin. Pitää jatkossa tutustua asiaan vielä tarkemmin. Tehtävässä ilmeni paljon ongelmia matkan varrella.
 
 Käytiin REST API asioita läpi. Moodlessa olevat Youtube videot osoittautuivat hyödyllisiksi. Varsinkin esnimmäisessä videossa esitelty Google maps -esimerkki oli näppärä koordinaattien hakemiseen.
 
 ## Viikko 7,8 (16-23.10.2021)
 
 Postman ladattu. Sovellus minulle vielä uusi ja tuntematon. Pienen tutkiskelun jälkeen totesin, että ohjelma onkin näppärä API työkalu.
-Tehtävä 5 palautti mielen SQL kurssille, josta aikanaan tykkäsin. Mielestäni HeidiSQl on simppeli ja näppärä ohjelma tietokantojen luomiseen. Yhdistäminen VS:een onnistui melkeinpä ongelmitta. Joitakin ongelmia ilmeni käyttäjän oikeuksien antamisessa ja niiden käyttämisessä. Yrittäessäni rajat oikeuksia, ei ohjelma päästänyt eteenpäin ilman virheilmoituksia. Lopulta sallin kaikki oikeudet ja rupesin siitä karsimaan. Ei mitään tietoa, miksi tätä virheilmoitusta antoi.
+
+Tehtävä 5 palautti mielen SQL kurssille, josta aikanaan tykkäsin. Mielestäni HeidiSQl on simppeli ja näppärä ohjelma tietokantojen luomiseen. Yhdistäminen VS:een onnistui melkeinpä ongelmitta.
+
+Joitakin ongelmia ilmeni käyttäjän oikeuksien antamisessa ja niiden käyttämisessä. Yrittäessäni rajata käyttäjän oikeuksia, ei ohjelma päästänyt eteenpäin ilman virheilmoituksia. Lopulta sallin kaikki oikeudet ja rupesin siitä karsimaan. Ei mitään tietoa, miksi tätä virheilmoitusta antoi.
+
+Tehtävä oli luoda tietokantasovellus node.js. Lisäsin annetut pohjakoodit ja metodit. Loin tietokannan HeidiSQl ja annoin tarvittavat oikeudet käyttäjälle. Tehtävä oli suhteellisen helppo pl oikeuksien antaminen. Jonkin aikaa meni myös muistellessa sql toimintaa ja sen luonti koodeja.
 
 ## Viikko 9, 10 (24.10.2021 - 17.11.2021)
 
