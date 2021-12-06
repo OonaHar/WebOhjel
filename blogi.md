@@ -6,8 +6,14 @@
 
 ## Viikko 1 ja 2 (1.9.- 15.9.2021)
 
-Kolmen luennon viikko. Käytiin läpi perusteet sekä asenneltiin lähinnä ohjelmistoja. Palindromi tehtävä herätteli mukavasti kurssiin.
-Puhelinluettelo tehtävää en kerinnyt tehdä. Henkilö ja urheilija tehtävä oli tallessa viime vuodelta, jolloin yritin käydä tätä samaa kurssia, en kuitenkaan sitä silloin päätökseen saanut ajanpuutteen vuoksi.
+Kolmen luennon viikko. Käytiin läpi perusteet sekä asenneltiin lähinnä ohjelmistoja.
+HTML - ja CSS -perusteet tehtävässä kopion annetun pohjakoodin, johon muokkasin omat tietoni opintojaksoista, harrastuksista, yhteystiedot ja tiedot yleisesti. Tehtävä ei ollu hirveän vaikea, muuntelin tarvittavat asiat vain pohjakoodiin. Muutin muutamia värejä. Opin perusteet html ajamisesta ja ikkunoiden välillä liikkumisesta.
+Parantaisin käyttöliittymää vielä entisestään, jos rupeaisin tehtävää uudestaan tekemään.
+
+Palindromi tehtävä herätteli mukavasti kurssiin! Tehtävänä oli tehdä sovellus, joka kysyy syötettävän sanan ja tarkistaa onko tämä palindromi. Kaikessa yksinkertaisuudessaan loin tehtävään for loopin, joka jakaa sanan kahteen osaan ja tarkistaa, onko molemmissa osissa samat kirjaimet. Mikäli on, boolean palauttaa arvon true.
+Tehtävä oli suhteellisen tuttu muilta ohjelmoinnin kursseilta
+
+Henkilö ja urheilija tehtävä oli tallessa viime vuodelta, jolloin yritin käydä tätä samaa kurssia, en kuitenkaan sitä silloin päätökseen saanut ajanpuutteen vuoksi.
 
 ## Viikko 3, 4, 5, 6 (15-13.10.2021)
 
