@@ -4,8 +4,8 @@ const mysql = require("mysql");
 // Be sure to replace 'user' and 'password' with the correct values
 const con = mysql.createConnection({
   host: "localhost",
-  user: "kt",
-  password: "kt123456",
+  user: "root",
+  password: "root",
   database: "mysql",
   multipleStatements: true, //out parametria varten aliohjelmassa
 });
